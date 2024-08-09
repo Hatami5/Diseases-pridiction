@@ -1,18 +1,37 @@
 Project Name
+
+
 Diabetes & Neurological Disease Prediction Models
+
+
 Introduction
+
+
 This project provides a collection of machine learning models for predicting various health conditions:
+
 •	Diabetes
+
 •	Heart Disease (replace with "Parkinson's Disease" if applicable)
+
 The models are trained on datasets containing relevant medical features and can be used to make predictions based on new patient data.
+
+
 Installation
+
 Dependencies
+
 This project requires the following Python libraries:
+
 •	numpy==1.21.4
+
 •	pickle-mixin==1.0.2
+
 •	streamlit==1.2.0
+
 •	streamlit-option-menu==0.3.2
+
 •	scikit-learn==1.0.1
+
 You can install them using pip:
 
 Bash

@@ -11,7 +11,7 @@ This project provides a collection of machine learning models for predicting var
 
 •	Diabetes
 
-•	Heart Disease (replace with "Parkinson's Disease" if applicable)
+•	Heart Disease
 
 The models are trained on datasets containing relevant medical features and can be used to make predictions based on new patient data.
 
